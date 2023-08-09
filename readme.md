@@ -1,10 +1,9 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
 Here is the place to tell the story of your experience of the Data Analytics Program.
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+I started off professionally as a Development Planner, after earning a degree in the discipline. But in my formative years, I always had Tech at heart. This passion drove me to study for a hardware and networking program whiles i worked as a Customer Service Specialist. I was able to switch roles to an IT Support Officer. With a further urge to explore a tech career, I further went on to take the Azubi Data Analytics Proffessional program and I can humbly call myself a Data Analyst thanks to Azubi Afica.
 
 ## How would I describe my experience in the data analytics program ? 
 `Please add text here...`
