@@ -3,10 +3,10 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 
 ## Let me introduce Myself
-I started off professionally as a Development planner after earning a degree in the discipline. But in my formative years, I always had Tech at heart. This passion drove me to study for a hardware and networking program while I worked as a Customer Service Specialist. I was able to switch roles to become an IT Support Officer. With a further urge to explore a tech career, I went on to take the Azubi Data Analytics Professional program and I can humbly call myself a Data Analyst thanks to Azubi Africa.
+I started off professionally as a Development planner after earning a degree in the discipline. But in my formative years, I always had Tech at heart. This passion drove me to study for a hardware and networking program while I worked as a Customer Service Specialist. I was able to switch roles to become an IT Support Officer. With a further urge to explore a tech career, I went on to take the Azubi Data Analytics Professional program, and I can humbly call myself a Data Analyst thanks to Azubi Africa.
 
-## How would I describe my experience in the data analytics program? 
-The Azubi Data Analytics program changed my thoughts about the data analytics program. The well-tailored course structure and method of delivery were excellent. 
+## How would I describe my experience in the data analytics program?
+The Azubi Data Analytics program changed my thoughts about the data analytics program. The well-tailored course structure and method of delivery were excellent.
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics? 
 The Career Accelerator phase not only increased my knowledge in the data analytics program but also helped me to sharpen my skills in writing a winning CV that increased my possibilities to be gainfully employed. 
@@ -16,9 +16,9 @@ Simply, a golden opportunity to change careers. The financing options provided a
 
 
 ## What would I say my progress in tech has been since joining the program? 
-`Please add text here...`
+With the knowledge amassed from this program, it is safe to say I 
 
-## What are my plans for the future ?
+## What are my plans for the future?
 `Please add text here...`
 
 ## What is my dream company or role ?
