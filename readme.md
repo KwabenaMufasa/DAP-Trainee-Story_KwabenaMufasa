@@ -9,20 +9,20 @@ I started off professionally as a Development planner after earning a degree in 
 The Azubi Data Analytics program changed my thoughts about the data analytics program. The well-tailored course structure and method of delivery were excellent.
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics? 
-The Career Accelerator phase not only increased my knowledge in the data analytics program but also helped me to sharpen my skills in writing a winning CV that increased my possibilities to be gainfully employed. 
+The Career Accelerator phase not only increased my knowledge in the data analytics program but also helped me sharpen my skills in writing a winning CV, which increased my possibilities of being gainfully employed.
 
 ## What enticed me to join the Data Analytics Program?
-Simply, a golden opportunity to change careers. The financing options provided also made the program option more enticing.
+simply a golden opportunity to change careers. The financing options provided also made the program more enticing.
 
 
 ## What would I say my progress in tech has been since joining the program? 
-With the knowledge amassed from this program, it is safe to say I 
+With the knowledge I have amassed from this program, it is safe to say I am able to well understand, analyse and visualize data better.
 
 ## What are my plans for the future?
-`Please add text here...`
+
 
 ## What is my dream company or role ?
-`Please add text here...`
+I yearn to grow to become a Senior Data Scientist in a silicon valley company soon. :blush: :+1:
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
