@@ -75,22 +75,22 @@ I yearn to grow to become a Senior Data Scientist in a silicon valley company so
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td> Venture Capital On Indian Start-ups</td>
+<td>Venture Capital On Indian Start-ups</td>
+<td>(https://medium.com/@kwabenaabrefa/venture-capital-for-indian-start-ups-41de755211ba)</td>
+<td></td>
+<td></td>
+<td>(https://github.com/KwabenaMufasa/Indian-Start-up-Funding-Analysis)</td>
 </tr>
 
 <tr>
 <td>2</td>
+<td> Regression Project - Time Series Analysis and Modeling</td>
+<td> A Regression Time Series Analysis</td>
+<td> https://medium.com/@kwabenaabrefa/regression-project-time-series-analysis-and-modeling-c5e2fab1047c</td>
+<td>  </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> https://github.com/KwabenaMufasa/Regression-Project---Time-Series-Analysis-and-Modeling</td>
 </tr>
 
 <tr>
