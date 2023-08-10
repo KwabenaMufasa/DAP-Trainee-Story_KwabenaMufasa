@@ -95,36 +95,47 @@ I yearn to grow to become a Senior Data Scientist in a silicon valley company so
 
 <tr>
 <td>3</td>
+<td> Telecommunications-Customer-Churn-Prediction</td>
+<td> A Classification Project for Telco Customer Churn Prediction</td>
+<td> https://medium.com/@kwabenaabrefa/classification-modelling-telecommunications-customer-churn-prediction-ffbd40941b12</td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> https://github.com/KwabenaMufasa/Classification---Telecommunications-Customer-Churn-Prediction</td>
 </tr>
 
 <tr>
 <td>4</td>
+<td> Gradio---Deploying-Customer-Churn-Classification-ML-Model-into-GUI</td>
+<td> Gradio App for Customer Churn Classification Model</td>
+<td> https://medium.com/@kwabenaabrefa/maximizing-customer-retention-deploying-machine-learning-models-and-predicting-customer-churn-5cab677a8c1
+</td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> https://github.com/KwabenaMufasa/Gradio---Deploying-Customer-Churn-Classification-ML-Model-into-GUI</td>
 </tr>
 
 <tr>
 <td>5</td>
+<td> Streamlit---Deploying-Sales-Prediction-Regression-ML-Model-into-GUI</td>
+<td> Streamlit App Deployment for Sales-Prediction-Regression-ML-Model</td>
+<td> https://medium.com/@kwabenaabrefa/streamlining-machine-learning-deployment-with-streamlit-119ab86601cc</td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> https://github.com/KwabenaMufasa/Streamlit---Deploying-Sales-Prediction-Regression-ML-Model-into-GUI</td>
 </tr>
 
 <tr>
 <td>6</td>
+<td> NLP-Sentiment-Analysis-and-Deployment</td>
+<td> Natural Language Processing Project : Sentiment Analysis</td>
+<td> https://medium.com/@kwabenaabrefa/nlp-sentiment-analysis-and-deployment-610dc02254ad</td>
+<td> </td>
+<td> </td>
+<td> https://github.com/KwabenaMufasa/NLP-Sentiment-Analysis-and-Deployment</td>
+</tr>
+
+<tr>
+<td>7</td>
 <td> </td>
 <td> </td>
 <td> </td>
